@@ -1,0 +1,8 @@
+.navbar-nav {
+  justify-content: center;
+}
+
+.navbar-text {
+  display: flex;
+  justify-content: center;
+}
